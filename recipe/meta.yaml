@@ -1,7 +1,7 @@
 {% set name = "libuvw" %}
-{% set version = "3.0.0" %}
-{% set libuv_version = "1.44" %}
-{% set sha256 = "aca0ffcbcc27a3cca2c9be608b99a75db85c91e9f1735e2abb5269e8c22c6e61" %}
+{% set version = "3.1.0" %}
+{% set libuv_version = "1.45" %}
+{% set sha256 = "0a612bd243150fbbe1365cdaf48203d32061c1d14f93825a31876b183922f93b" %}
 
 package:
   name: {{ name|lower }}
